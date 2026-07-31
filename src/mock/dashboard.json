@@ -1,0 +1,69 @@
+{
+  "stats": {
+    "totalReports": 1428,
+    "pendingRepairs": 84,
+    "criticalDamage": 18,
+    "engineersActive": 42,
+    "completedRepairs": 1284,
+    "averageResolutionTime": "28.5 Hours",
+    "aiAccuracy": 94.6,
+    "infrastructureHealthScore": 82.3
+  },
+  "issueTrends": [
+    { "month": "Jan", "reports": 85, "repairs": 78, "critical": 8 },
+    { "month": "Feb", "reports": 92, "repairs": 88, "critical": 12 },
+    { "month": "Mar", "reports": 120, "repairs": 105, "critical": 15 },
+    { "month": "Apr", "reports": 110, "repairs": 112, "critical": 10 },
+    { "month": "May", "reports": 145, "repairs": 130, "critical": 22 },
+    { "month": "Jun", "reports": 160, "repairs": 140, "critical": 18 },
+    { "month": "Jul", "reports": 185, "repairs": 155, "critical": 24 }
+  ],
+  "severityDistribution": [
+    { "name": "Critical", "value": 18, "color": "#ef4444" },
+    { "name": "High", "value": 45, "color": "#f59e0b" },
+    { "name": "Medium", "value": 122, "color": "#3b82f6" },
+    { "name": "Low", "value": 243, "color": "#10b981" }
+  ],
+  "riskIndex": [
+    { "name": "Sector 1", "index": 85 },
+    { "name": "Sector 2", "index": 45 },
+    { "name": "Sector 3", "index": 62 },
+    { "name": "Sector 4", "index": 28 },
+    { "name": "Sector 5", "index": 71 },
+    { "name": "Sector 6", "index": 33 }
+  ],
+  "recentActivities": [
+    {
+      "id": "act-1",
+      "type": "report",
+      "user": "Citizen: John Doe",
+      "action": "Reported a deep pothole on Main Street",
+      "timestamp": "12 mins ago",
+      "severity": "Medium"
+    },
+    {
+      "id": "act-2",
+      "type": "ai_detection",
+      "user": "AI Engine v2.4",
+      "action": "Detected severe cracking on North Bridge (Confidence: 98%)",
+      "timestamp": "45 mins ago",
+      "severity": "Critical"
+    },
+    {
+      "id": "act-3",
+      "type": "assignment",
+      "user": "Officer Sarah Connor",
+      "action": "Assigned Engineer David Lee to Water Pipeline Leakage",
+      "timestamp": "1 hour ago",
+      "severity": "High"
+    },
+    {
+      "id": "act-4",
+      "type": "completion",
+      "user": "Engineer David Lee",
+      "action": "Marked Traffic Light Fault at Crossing 4 as Completed",
+      "timestamp": "3 hours ago",
+      "severity": "Low"
+    }
+  ]
+}

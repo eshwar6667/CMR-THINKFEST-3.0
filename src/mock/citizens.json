@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cit-1",
+    "name": "John Doe",
+    "phone": "+1 (555) 019-9922",
+    "email": "johndoe@gmail.com",
+    "status": "Active",
+    "reportsSubmitted": 12
+  },
+  {
+    "id": "cit-2",
+    "name": "Marcus Vance",
+    "phone": "+1 (555) 012-3289",
+    "email": "mvance@yahoo.com",
+    "status": "Active",
+    "reportsSubmitted": 8
+  },
+  {
+    "id": "cit-3",
+    "name": "David Miller",
+    "phone": "+1 (555) 015-8844",
+    "email": "dmiller@outlook.com",
+    "status": "Active",
+    "reportsSubmitted": 4
+  },
+  {
+    "id": "cit-4",
+    "name": "Elena Rostova",
+    "phone": "+1 (555) 018-1122",
+    "email": "elena.r@agency.ru",
+    "status": "Active",
+    "reportsSubmitted": 18
+  },
+  {
+    "id": "cit-5",
+    "name": "Jane Watson",
+    "phone": "+1 (555) 011-5566",
+    "email": "jwatson@sherlock.org",
+    "status": "Inactive",
+    "reportsSubmitted": 1
+  }
+]

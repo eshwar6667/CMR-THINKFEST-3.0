@@ -1,0 +1,96 @@
+[
+  {
+    "id": "AST-101",
+    "name": "Brooklyn Bridge Eastern Span",
+    "type": "Bridge",
+    "healthScore": 48,
+    "riskIndex": 82,
+    "lastInspectionDate": "2026-07-15",
+    "nextInspectionDate": "2026-08-15",
+    "lastRepairDate": "2025-11-20",
+    "status": "Critical Repair Required",
+    "location": {
+      "latitude": 40.7061,
+      "longitude": -73.9969,
+      "address": "Brooklyn Bridge, New York, NY"
+    }
+  },
+  {
+    "id": "AST-102",
+    "name": "Times Square Water Grid Pipe Section A",
+    "type": "Pipeline",
+    "healthScore": 62,
+    "riskIndex": 74,
+    "lastInspectionDate": "2026-06-10",
+    "nextInspectionDate": "2026-09-10",
+    "lastRepairDate": "2026-02-14",
+    "status": "Requires Maintenance",
+    "location": {
+      "latitude": 40.7580,
+      "longitude": -73.9855,
+      "address": "Broadway and 45th St, New York, NY"
+    }
+  },
+  {
+    "id": "AST-103",
+    "name": "Manhattan Broadway Avenue Asphalt",
+    "type": "Road",
+    "healthScore": 79,
+    "riskIndex": 42,
+    "lastInspectionDate": "2026-05-20",
+    "nextInspectionDate": "2026-11-20",
+    "lastRepairDate": "2026-07-31",
+    "status": "Operational",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "address": "Broadway Corridor, New York, NY"
+    }
+  },
+  {
+    "id": "AST-104",
+    "name": "Battery Park Walkway Lights System",
+    "type": "Street Light",
+    "healthScore": 95,
+    "riskIndex": 12,
+    "lastInspectionDate": "2026-07-01",
+    "nextInspectionDate": "2027-07-01",
+    "status": "Operational",
+    "location": {
+      "latitude": 40.7022,
+      "longitude": -74.0150,
+      "address": "Battery Park Walkways, New York, NY"
+    }
+  },
+  {
+    "id": "AST-105",
+    "name": "Empire State Storm Sewer Gutter 4",
+    "type": "Drainage",
+    "healthScore": 88,
+    "riskIndex": 25,
+    "lastInspectionDate": "2026-07-28",
+    "nextInspectionDate": "2026-10-28",
+    "lastRepairDate": "2026-07-30",
+    "status": "Operational",
+    "location": {
+      "latitude": 40.7484,
+      "longitude": -73.9857,
+      "address": "350 5th Ave Storm Grid"
+    }
+  },
+  {
+    "id": "AST-106",
+    "name": "Bowery Electrical Junction C-18",
+    "type": "Traffic Signal",
+    "healthScore": 55,
+    "riskIndex": 60,
+    "lastInspectionDate": "2026-04-18",
+    "nextInspectionDate": "2026-10-18",
+    "status": "Requires Maintenance",
+    "location": {
+      "latitude": 40.7228,
+      "longitude": -73.9980,
+      "address": "120 Bowery Intersection"
+    }
+  }
+]

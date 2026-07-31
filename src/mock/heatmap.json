@@ -1,0 +1,11 @@
+[
+  { "latitude": 40.7128, "longitude": -74.0060, "intensity": 0.8, "label": "Broadway Pothole Cluster" },
+  { "latitude": 40.7061, "longitude": -73.9969, "intensity": 0.95, "label": "Brooklyn Bridge Structural Risk" },
+  { "latitude": 40.7228, "longitude": -73.9980, "intensity": 0.5, "label": "Bowery Electrical Blackouts" },
+  { "latitude": 40.7580, "longitude": -73.9855, "intensity": 0.9, "label": "Times Square Water Leakage" },
+  { "latitude": 40.7484, "longitude": -73.9857, "intensity": 0.3, "label": "Storm Drain Silt Blockage" },
+  { "latitude": 40.7306, "longitude": -73.9352, "intensity": 0.6, "label": "Queens Boulevard Asphalt Sag" },
+  { "latitude": 40.8448, "longitude": -73.8648, "intensity": 0.7, "label": "Bronx Bridge Joint Damage" },
+  { "latitude": 40.6413, "longitude": -73.7781, "intensity": 0.4, "label": "JFK Pipeline Corrosive Alarm" },
+  { "latitude": 40.7022, "longitude": -74.0150, "intensity": 0.2, "label": "Battery Park Sidewalk Gaps" }
+]

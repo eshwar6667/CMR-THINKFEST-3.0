@@ -1,0 +1,57 @@
+[
+  {
+    "id": "eng-1",
+    "name": "David Lee",
+    "email": "david.lee@infrasense.gov",
+    "phone": "+1 (555) 019-2834",
+    "specialization": "Roadways & Pavements",
+    "department": "Civil Infrastructure",
+    "availability": "Available",
+    "activeTasks": 0,
+    "efficiencyRating": 4.8
+  },
+  {
+    "id": "eng-2",
+    "name": "Dr. Aris Thorne",
+    "email": "a.thorne@infrasense.gov",
+    "phone": "+1 (555) 014-9988",
+    "specialization": "Structural & Bridge Integrity",
+    "department": "Bridges & Overpasses",
+    "availability": "On Assignment",
+    "activeTasks": 2,
+    "efficiencyRating": 4.9
+  },
+  {
+    "id": "eng-3",
+    "name": "Sarah Connor",
+    "email": "s.connor@infrasense.gov",
+    "phone": "+1 (555) 012-4433",
+    "specialization": "Hydraulics & Water Lines",
+    "department": "Water & Sanitation",
+    "availability": "On Assignment",
+    "activeTasks": 1,
+    "efficiencyRating": 4.7
+  },
+  {
+    "id": "eng-4",
+    "name": "Michael Chang",
+    "email": "m.chang@infrasense.gov",
+    "phone": "+1 (555) 017-7755",
+    "specialization": "Electrical Grid & Streetlights",
+    "department": "Electrical & Energy",
+    "availability": "Available",
+    "activeTasks": 1,
+    "efficiencyRating": 4.5
+  },
+  {
+    "id": "eng-5",
+    "name": "Elena Rostova",
+    "email": "e.rostova@infrasense.gov",
+    "phone": "+1 (555) 018-1122",
+    "specialization": "Sewerage & Environmental",
+    "department": "Water & Sanitation",
+    "availability": "On Leave",
+    "activeTasks": 0,
+    "efficiencyRating": 4.6
+  }
+]

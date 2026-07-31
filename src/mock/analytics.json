@@ -1,0 +1,42 @@
+{
+  "monthlyReports": [
+    { "month": "Jan", "road": 45, "bridge": 12, "water": 18, "electric": 10 },
+    { "month": "Feb", "road": 52, "bridge": 15, "water": 15, "electric": 10 },
+    { "month": "Mar", "road": 60, "bridge": 22, "water": 25, "electric": 13 },
+    { "month": "Apr", "road": 58, "bridge": 18, "water": 20, "electric": 14 },
+    { "month": "May", "road": 75, "bridge": 28, "water": 28, "electric": 14 },
+    { "month": "Jun", "road": 88, "bridge": 25, "water": 32, "electric": 15 },
+    { "month": "Jul", "road": 95, "bridge": 34, "water": 38, "electric": 18 }
+  ],
+  "repairTrends": [
+    { "month": "Jan", "completed": 78, "backlog": 12, "avgDays": 3.4 },
+    { "month": "Feb", "completed": 88, "backlog": 16, "avgDays": 3.1 },
+    { "month": "Mar", "completed": 105, "backlog": 33, "avgDays": 4.2 },
+    { "month": "Apr", "completed": 112, "backlog": 31, "avgDays": 3.8 },
+    { "month": "May", "completed": 130, "backlog": 46, "avgDays": 4.5 },
+    { "month": "Jun", "completed": 140, "backlog": 66, "avgDays": 4.1 },
+    { "month": "Jul", "completed": 155, "backlog": 84, "avgDays": 3.9 }
+  ],
+  "costSavedByAI": [
+    { "month": "Jan", "savings": 12000, "incidents": 14 },
+    { "month": "Feb", "savings": 18000, "incidents": 22 },
+    { "month": "Mar", "savings": 25000, "incidents": 30 },
+    { "month": "Apr", "savings": 22000, "incidents": 26 },
+    { "month": "May", "savings": 38000, "incidents": 45 },
+    { "month": "Jun", "savings": 42000, "incidents": 50 },
+    { "month": "Jul", "savings": 54000, "incidents": 62 }
+  ],
+  "damageDistribution": [
+    { "category": "Road Defect (Pothole/Crack)", "percentage": 42 },
+    { "category": "Bridge Concrete Spalling", "percentage": 18 },
+    { "category": "Utility Piping & Leaks", "percentage": 22 },
+    { "category": "Grid/Light Malfunction", "percentage": 10 },
+    { "category": "Drainage System Blocks", "percentage": 8 }
+  ],
+  "budgetUtilization": [
+    { "department": "Civil (Roads)", "budget": 2500000, "spent": 1850000 },
+    { "department": "Bridges", "budget": 5000000, "spent": 4100000 },
+    { "department": "Water Dept", "budget": 3000000, "spent": 2450000 },
+    { "department": "Grid/Lights", "budget": 1200000, "spent": 920000 }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ISS-9012",
+    "category": "Road Damage",
+    "description": "Large pothole in the middle lane causing cars to swerve dangerously. Around 15cm deep.",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "address": "452 Broadway, New York, NY 10013",
+      "district": "Manhattan",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-31T09:15:00Z",
+    "reportedBy": "Elena Rostova",
+    "imageUrl": "https://images.unsplash.com/photo-1515162305285-0293e4767cc2?auto=format&fit=crop&w=600&q=80",
+    "severity": "High",
+    "status": "Assigned",
+    "departmentId": "dept-roads",
+    "assignedEngineerId": "eng-1",
+    "costEstimate": 1500,
+    "timeEstimate": "1 day",
+    "aiDetection": {
+      "boundingBox": [20, 30, 45, 40],
+      "category": "Pothole",
+      "confidence": 0.98,
+      "severity": "High",
+      "recommendedAction": "Milling and patching with hot-mix asphalt",
+      "estimatedCost": 1500,
+      "estimatedTime": "1 day"
+    }
+  },
+  {
+    "id": "ISS-9013",
+    "category": "Bridge Damage",
+    "description": "Concrete spalling on the underside of the eastern support beam. Rebar is exposed and rusted.",
+    "location": {
+      "latitude": 40.7061,
+      "longitude": -73.9969,
+      "address": "Brooklyn Bridge Pedestrian Walkway",
+      "district": "Brooklyn",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-31T08:30:00Z",
+    "reportedBy": "AI Engine v2.4",
+    "imageUrl": "https://images.unsplash.com/photo-1545642220-4375b48197aa?auto=format&fit=crop&w=600&q=80",
+    "severity": "Critical",
+    "status": "Inspection",
+    "departmentId": "dept-bridges",
+    "assignedEngineerId": "eng-2",
+    "costEstimate": 45000,
+    "timeEstimate": "14 days",
+    "aiDetection": {
+      "boundingBox": [10, 15, 80, 70],
+      "category": "Concrete Crack & Rebar Corrosion",
+      "confidence": 0.95,
+      "severity": "Critical",
+      "recommendedAction": "Hydro-demolition, rebar treatment, polymer-modified concrete overlay",
+      "estimatedCost": 45000,
+      "estimatedTime": "14 days"
+    }
+  },
+  {
+    "id": "ISS-9014",
+    "category": "Street Lights",
+    "description": "Entire block of street lights is out. Total dark zone, safety hazard.",
+    "location": {
+      "latitude": 40.7228,
+      "longitude": -73.9980,
+      "address": "120 Bowery, New York, NY 10013",
+      "district": "Manhattan",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-30T22:10:00Z",
+    "reportedBy": "Marcus Vance",
+    "severity": "Medium",
+    "status": "New",
+    "departmentId": "dept-electric",
+    "costEstimate": 800,
+    "timeEstimate": "4 hours"
+  },
+  {
+    "id": "ISS-9015",
+    "category": "Water Leakage",
+    "description": "Water main burst, flooding the street and sidewalk. Water pressure in nearby buildings is extremely low.",
+    "location": {
+      "latitude": 40.7580,
+      "longitude": -73.9855,
+      "address": "Times Square, New York, NY 10036",
+      "district": "Manhattan",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-31T11:45:00Z",
+    "reportedBy": "Officer Sarah Connor",
+    "imageUrl": "https://images.unsplash.com/photo-1542060748-10c28b629f6f?auto=format&fit=crop&w=600&q=80",
+    "severity": "Critical",
+    "status": "Repairing",
+    "departmentId": "dept-water",
+    "assignedEngineerId": "eng-3",
+    "costEstimate": 12000,
+    "timeEstimate": "12 hours",
+    "aiDetection": {
+      "boundingBox": [30, 40, 50, 50],
+      "category": "Water Main Crack",
+      "confidence": 0.91,
+      "severity": "Critical",
+      "recommendedAction": "Section clamp replacement and utility shutdown",
+      "estimatedCost": 12000,
+      "estimatedTime": "12 hours"
+    }
+  },
+  {
+    "id": "ISS-9016",
+    "category": "Drainage",
+    "description": "Blocked storm drain filled with plastic trash and leaves. Causing localized street ponding during light rain.",
+    "location": {
+      "latitude": 40.7484,
+      "longitude": -73.9857,
+      "address": "Empire State Building Surrounds",
+      "district": "Manhattan",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-30T10:00:00Z",
+    "reportedBy": "Citizen: David Miller",
+    "severity": "Low",
+    "status": "Completed",
+    "departmentId": "dept-sewer",
+    "assignedEngineerId": "eng-1",
+    "costEstimate": 350,
+    "timeEstimate": "2 hours"
+  },
+  {
+    "id": "ISS-9017",
+    "category": "Potholes",
+    "description": "Group of 3 potholes in succession along the right shoulder.",
+    "location": {
+      "latitude": 40.7022,
+      "longitude": -74.0150,
+      "address": "Battery Park, New York, NY 10004",
+      "district": "Manhattan",
+      "city": "New York"
+    },
+    "reportedAt": "2026-07-29T14:20:00Z",
+    "reportedBy": "AI Engine v2.4",
+    "severity": "Medium",
+    "status": "Completed",
+    "departmentId": "dept-roads",
+    "assignedEngineerId": "eng-4",
+    "costEstimate": 600,
+    "timeEstimate": "6 hours"
+  }
+]

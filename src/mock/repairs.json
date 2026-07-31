@@ -1,0 +1,91 @@
+[
+  {
+    "id": "REP-801",
+    "issueId": "ISS-9012",
+    "issueTitle": "Main Street Pothole Repair",
+    "status": "Assigned",
+    "engineerId": "eng-1",
+    "engineerName": "David Lee",
+    "startDate": "2026-08-01T08:00:00Z",
+    "estimatedCompletion": "2026-08-02T17:00:00Z",
+    "cost": 1500,
+    "updates": [
+      {
+        "timestamp": "2026-07-31T09:30:00Z",
+        "status": "Assigned",
+        "notes": "Work order created. Materials loaded onto truck. Crew dispatched tomorrow morning.",
+        "updatedBy": "Sarah Connor (Officer)"
+      }
+    ]
+  },
+  {
+    "id": "REP-802",
+    "issueId": "ISS-9013",
+    "issueTitle": "Brooklyn Bridge Beam Structural Support",
+    "status": "Inspection",
+    "engineerId": "eng-2",
+    "engineerName": "Dr. Aris Thorne",
+    "startDate": "2026-07-31T08:30:00Z",
+    "estimatedCompletion": "2026-08-14T18:00:00Z",
+    "cost": 45000,
+    "updates": [
+      {
+        "timestamp": "2026-07-31T08:45:00Z",
+        "status": "Inspection",
+        "notes": "Visual inspection completed. Exposing steel reinforcement mesh shows significant carbonation. Planning hydro-demolition step.",
+        "updatedBy": "Dr. Aris Thorne"
+      }
+    ]
+  },
+  {
+    "id": "REP-803",
+    "issueId": "ISS-9015",
+    "issueTitle": "Times Square Water Pipe Bypass",
+    "status": "Repairing",
+    "engineerId": "eng-3",
+    "engineerName": "Sarah Connor",
+    "startDate": "2026-07-31T12:00:00Z",
+    "estimatedCompletion": "2026-07-31T23:59:00Z",
+    "cost": 12000,
+    "updates": [
+      {
+        "timestamp": "2026-07-31T11:50:00Z",
+        "status": "Assigned",
+        "notes": "Water main valve shut off in Section 4B to halt flood flow.",
+        "updatedBy": "Sarah Connor"
+      },
+      {
+        "timestamp": "2026-07-31T12:30:00Z",
+        "status": "Repairing",
+        "notes": "Excavation completed. Welding the custom replacement clamp to split pipe segment. Weld is 40% done.",
+        "updatedBy": "Sarah Connor"
+      }
+    ]
+  },
+  {
+    "id": "REP-804",
+    "issueId": "ISS-9016",
+    "issueTitle": "Empire State Building Storm Drain Clearing",
+    "status": "Completed",
+    "engineerId": "eng-1",
+    "engineerName": "David Lee",
+    "startDate": "2026-07-30T11:00:00Z",
+    "endDate": "2026-07-30T13:00:00Z",
+    "estimatedCompletion": "2026-07-30T14:00:00Z",
+    "cost": 350,
+    "updates": [
+      {
+        "timestamp": "2026-07-30T11:00:00Z",
+        "status": "Repairing",
+        "notes": "Vacuum truck arrived. Sucking out accumulated trash debris and sand silt.",
+        "updatedBy": "David Lee"
+      },
+      {
+        "timestamp": "2026-07-30T13:00:00Z",
+        "status": "Completed",
+        "notes": "Water flow fully restored. High pressure hose flush completed. Drain clear.",
+        "updatedBy": "David Lee"
+      }
+    ]
+  }
+]

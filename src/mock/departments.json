@@ -1,0 +1,46 @@
+[
+  {
+    "id": "dept-roads",
+    "name": "Civil Infrastructure (Roads)",
+    "head": "Commissioner James Gordon",
+    "pendingRepairs": 32,
+    "completedRepairs": 542,
+    "averageResolutionHours": 24,
+    "budgetAllocated": 2500000,
+    "budgetUsed": 1850000,
+    "efficiencyScore": 92.4
+  },
+  {
+    "id": "dept-bridges",
+    "name": "Bridges & Overpasses",
+    "head": "Dr. Angela Merkel",
+    "pendingRepairs": 8,
+    "completedRepairs": 45,
+    "averageResolutionHours": 142,
+    "budgetAllocated": 5000000,
+    "budgetUsed": 4100000,
+    "efficiencyScore": 88.5
+  },
+  {
+    "id": "dept-electric",
+    "name": "Electrical & Energy Grid",
+    "head": "Chief Thomas Edison",
+    "pendingRepairs": 18,
+    "completedRepairs": 382,
+    "averageResolutionHours": 12,
+    "budgetAllocated": 1200000,
+    "budgetUsed": 920000,
+    "efficiencyScore": 95.1
+  },
+  {
+    "id": "dept-water",
+    "name": "Water & Sanitation Hub",
+    "head": "Director Marie Curie",
+    "pendingRepairs": 26,
+    "completedRepairs": 315,
+    "averageResolutionHours": 18,
+    "budgetAllocated": 3000000,
+    "budgetUsed": 2450000,
+    "efficiencyScore": 90.7
+  }
+]

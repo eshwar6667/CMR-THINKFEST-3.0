@@ -1,0 +1,38 @@
+[
+  {
+    "id": "notif-1",
+    "title": "Critical Damage Detected by AI",
+    "message": "AI Computer Vision detected 95% confidence critical cracking on Eastern Span of Brooklyn Bridge.",
+    "type": "error",
+    "timestamp": "2026-07-31T08:31:00Z",
+    "read": false,
+    "issueId": "ISS-9013"
+  },
+  {
+    "id": "notif-2",
+    "title": "Engineer Assigned to Repair Work",
+    "message": "Engineer David Lee has been assigned to Main Street Pothole Repair (ISS-9012).",
+    "type": "info",
+    "timestamp": "2026-07-31T09:16:00Z",
+    "read": false,
+    "issueId": "ISS-9012"
+  },
+  {
+    "id": "notif-3",
+    "title": "Water Leakage Flooding Alarm",
+    "message": "Emergency alert: Water main burst flooding Times Square area. Water grid pressure warning.",
+    "type": "warning",
+    "timestamp": "2026-07-31T11:46:00Z",
+    "read": true,
+    "issueId": "ISS-9015"
+  },
+  {
+    "id": "notif-4",
+    "title": "Citizen Feedback Submitted",
+    "message": "Citizen John Doe left a comment on Storm Drain clearing: 'Very quick work, thanks for the speed!'",
+    "type": "success",
+    "timestamp": "2026-07-30T13:15:00Z",
+    "read": true,
+    "issueId": "ISS-9016"
+  }
+]
